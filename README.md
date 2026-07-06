@@ -232,15 +232,6 @@ Completed a simulated consulting engagement in data analytics and forensic techn
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pushkarsingh26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -255,9 +246,11 @@ Completed a simulated consulting engagement in data analytics and forensic techn
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/pushkarsingh26/pushkarsingh26/output/github-contribution-grid-snake-dark.svg"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkarsingh26/pushkarsingh26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkarsingh26/pushkarsingh26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pushkarsingh26/pushkarsingh26/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ---
