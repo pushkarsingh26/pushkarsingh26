@@ -144,6 +144,25 @@ Implemented a custom RAG pipeline using SentenceTransformers (`all-MiniLM-L6-v2`
 
 </details>
 
+<details>
+<summary><b>🔹 DevMind — Multi-Agent AI Code Review Platform</b></summary>
+<br/>
+
+An AI-powered repository analysis platform that automatically clones Git repositories, scans source code, generates semantic embeddings, and performs multi-agent code reviews to deliver actionable engineering insights.
+
+| Aspect           | Details                                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Stack**        | Python, FastAPI, React, SQLAlchemy, PostgreSQL, LangChain, FAISS, GitPython                                |
+| **Architecture** | Planner, Retriever, Reviewer, Critic, and Report Generation pipeline                                       |
+| **Performance**  | Semantic repository analysis with intelligent chunking and vector-based retrieval                          |
+| **Scalability**  | Modular service-oriented backend with asynchronous job processing                                          |
+| **Impact**       | Automated code quality review, architecture analysis, security observations, and maintainability reporting |
+| **Repository**   | [View Repository](https://github.com/pushkarsingh26/DevMind)                                               |
+
+Designed and implemented a production-oriented multi-agent AI system that clones Git repositories, extracts source code metadata, generates vector embeddings, and orchestrates specialized AI agents to analyze code quality, architecture, and engineering best practices through an end-to-end automated review pipeline.
+
+</details>
+
 ---
 
 ## 💼 Experience
